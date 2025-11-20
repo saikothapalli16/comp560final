@@ -1,6 +1,8 @@
 # comp 560 final
 final for comp 560: research on machine unlearning and attacks on it
 
+> Written by: Sai Kothapalli, Aarush Vemuganti, Maddox Brewer, Wyatt Esch, Run
+
 
 paper link: https://github.com/saikothapalli16/comp560final/blob/cfb87358b2a0ef1586feda853381a762e585a7c9/Comp_560_final.pdf
 
